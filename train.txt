@@ -1,0 +1,39 @@
+/kaggle/input/your-data/awhite_200223_3916_0425.png
+/kaggle/input/your-data/Gear-Web-Phone-Cam-959082912.png
+/kaggle/input/your-data/google-pixel-4a-camera-back-hand-300x251-c-n.png
+/kaggle/input/your-data/gsmarena_002 (1).png
+/kaggle/input/your-data/gsmarena_002.png
+/kaggle/input/your-data/gsmarena_004.png
+/kaggle/input/your-data/gsmarena_019.png
+/kaggle/input/your-data/Honor-20-Lite-Aurora-Rear.png
+/kaggle/input/your-data/Huawei-P30-Pro-review-India-with-pros-and-cons-21.png
+/kaggle/input/your-data/Huawei-Y6-2019-Camera(1).png
+/kaggle/input/your-data/huawei_phone_main.jpeg
+/kaggle/input/your-data/images (1).png
+/kaggle/input/your-data/images (2).png
+/kaggle/input/your-data/images.png
+/kaggle/input/your-data/iphone-6-plus-studio-back-camera2-1500x1000.png
+/kaggle/input/your-data/iphone-xr-red-back-camera.png
+/kaggle/input/your-data/iphone11dualcameras-800x697.png
+/kaggle/input/your-data/iphonexfrontback-800x573.png
+/kaggle/input/your-data/iphone_7_plus_rear.0.png
+/kaggle/input/your-data/iphone_xr-1-1024x768.png
+/kaggle/input/your-data/jbareham_171030_2099_A_0045.0.png
+/kaggle/input/your-data/jbareham_190213_3183_0058.png
+/kaggle/input/your-data/LG-G6-Samsung-Galaxy-S8-cameras-840x472.png
+/kaggle/input/your-data/nokia_5310-CONNECTIVITY-mobile.png
+/kaggle/input/your-data/OnePlus-7-Pro-Review-India-with-Pros-and-cons-17.png
+/kaggle/input/your-data/phone-3.png
+/kaggle/input/your-data/Pixel-4-XL-camera-shoutout-cluster.png
+/kaggle/input/your-data/realistic-smartphone-front-side-with-transparent-screen-back-side-with-cameras_115838-119.png
+/kaggle/input/your-data/realme-xt-hands-on-4.png
+/kaggle/input/your-data/Samsung-Galaxy-A9-2018-Review-6.png
+/kaggle/input/your-data/Samsung-Galaxy-Note-20-Ultra-back-cameras-semi-macro-920x470.png
+/kaggle/input/your-data/smartphone-cameras-main.png
+/kaggle/input/your-data/thumb_108591_default_td_480x480.jpeg
+/kaggle/input/your-data/turkey-istanbul-december-20-2019-close-up-of-the-back-cover-or-rear-view-of-the-new-modern-samsung-a70-smartphone-with-three-cameras-2AT8N67.png
+/kaggle/input/your-data/update-pc.png
+/kaggle/input/your-data/Vivo-U20-back.png
+/kaggle/input/your-data/vivo-v17-pro-camera-review-2.png
+/kaggle/input/your-data/Xiaomi-Mi-Note-10-back-of-the-device-outside.png
+/kaggle/input/your-data/Xiaomi-Mi-Note-10-vs-Google-Pixel-4-cameras-1200x675.png

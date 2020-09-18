@@ -1,0 +1,5 @@
+classes = 1
+train = /kaggle/input/your-data/train.txt
+valid = /kaggle/input/your-data/test.txt
+names = /kaggle/input/your-data/classes.names
+backup = backup
